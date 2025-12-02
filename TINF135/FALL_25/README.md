@@ -212,7 +212,7 @@ assignments. Your final grade will be based on a scale of 100 points:
 |        | 20-Nov |                                                                     | Module 4: Use AI Responsibly                  | AI project management                                         |  Lab 5                                                         |
 | 14     | 25-Nov |                                                                     | Module 5: Stay Ahead of the AI Curve          | AI governance                                                 |                                                                |
 |        | 27-Nov | Thanksgiving Break, No Class                                        |                                               |                                                               |                                                                |
-| 15     | 2-Dec  | M9: The Future of AI                                                | Module 5: Stay Ahead of the AI Curve          | Emerging trends in AI, The ethical implications of AI         | Quiz 7                                                         |
+| 15     | 2-Dec  | M9: The Future of AI                                                | Module 5: Stay Ahead of the AI Curve          | <a href="https://drcanbaz.com/teaching/TINF135/Fall25/Slides/L10-Future.slides.html" > Emerging trends in AI, The ethical implications of AI </a>          | Quiz 7                                                         |
 |        | 4-Dec  | Showcase Day, All Students are expected to participate the Showcase |                                               |                                                               |                                                                |
 
 
