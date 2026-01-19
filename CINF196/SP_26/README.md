@@ -1,220 +1,127 @@
-**CINF 196: Special Topics - Creative AI (3 Credits)**
+# CINF 196: Special Topics – Creative AI (3 Credits)
 
-**Semester:** Spring 2026
+**Semester:** Spring 2026  
+**Day/Time:** In person – Mondays and Wednesdays, 11:40 AM – 1:00 PM  
+**Location:** Science Library G12  
 
-**Day/Time:** In person – Mondays and Wednesdays 11:40 AM - 1:00 PM
+**Instructor:** M. Abdullah Canbaz, Ph.D. *[ he/him/his ]*  
+**Contact:** (518) 442 – 5258  
+**Office Location and Hours:** Mondays 1:30 pm – 2:30 pm or by appointment  
 
-**Location:** Science Library G12
+---
 
-**Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
+## Course Description:
 
-**Contact:** (518) 442 – 5258
+Creative AI is a 100-level undergraduate course that introduces students with no technical background to how artificial intelligence is transforming creative practices in visual art, music, film, storytelling, and entertainment media. Students conceptually explore creative AI models—including large language models, image and video generators (such as diffusion models), and generative adversarial networks (GANs)—while using contemporary tools to produce original text, image, audio, and multimedia works. Alongside hands-on creative experimentation, the course critically examines ethical, legal, and social issues such as privacy, copyright and ownership, bias and representation, consent, and deepfakes in media and entertainment.
 
-**Office Location and Hours:** Mondays 1:30 pm – 2:30 pm or by
-appointment
+---
 
-**Course Description:**
-
-Creative AI is a 100-level undergraduate course that introduces students
-with no technical background to how artificial intelligence is
-transforming creative practices in visual art, music, film,
-storytelling, and entertainment media. Students will conceptually
-explore creative AI models—including large language models, image and
-video generators (such as diffusion models), and generative adversarial
-networks (GANs)—while using contemporary tools to produce their own
-text, image, audio, and multimedia works. Alongside hands-on creative
-experimentation, the course critically examines ethical, legal, and
-social issues such as privacy, copyright and ownership, bias and
-representation, consent, and deepfakes in media and entertainment.
-
-**Expected Student Learning Outcomes:**
+## Expected Student Learning Outcomes:
 
 The primary objectives of this course are to help students understand:
 
-- How modern creative AI systems (e.g., large language models, diffusion
-  models, GANs) function conceptually, including their strengths and
-  limitations in artistic and entertainment contexts.
+- How modern creative AI systems (e.g., large language models, diffusion models, GANs) function conceptually, including their strengths and limitations in artistic and entertainment contexts.
+- How creative AI tools intersect with society, culture, and the creative industries, including ethical, legal, and social implications such as privacy, authorship, and representation.
 
-- How creative AI tools intersect with society, culture, and the
-  creative industries, including ethical, legal, and social implications
-  such as privacy, authorship, and representation.
-
-The course prioritizes active, studio-style learning, which is
-especially important in the rapidly evolving area of creative AI, where
-specific tools change quickly. The focus is on learning how to navigate
-and critically engage with creative AI systems and workflows, rather
-than memorizing static technical details.
+The course emphasizes active, studio-style learning. Given the rapidly evolving nature of creative AI tools, the focus is on critical engagement and creative workflows rather than memorization of static technical details.
 
 Upon successful completion of this course, students will be able to:
 
-1.  Describe core concepts, capabilities, and limitations of creative AI
-    models (e.g., large language models, diffusion models, GANs) in
-    accessible, non-technical language. (C1.1 B)
+1. **Describe** core concepts, capabilities, and limitations of creative AI models in accessible, non-technical language. **(C1.1 B)**  
+   - **Measure:** Short written responses, concept maps, or quizzes.  
+   - **Corresponding Assignment:** In-Class Concept Activities & Weekly Quizzes
 
-    - Measure: Students will explain key ideas in short written
-      responses, concept maps, or low-stakes quizzes.
+2. **Use** contemporary generative AI tools to create original creative works aligned with an intentional goal. **(C1.2 I)**  
+   - **Measure:** Purposeful text, image, audio, or mixed-media artifacts.  
+   - **Corresponding Assignment:** Generative Text Assignment; Generative Image/Media Assignment
 
-    - Corresponding Assignment: In-Class Concept Activities & Weekly
-      Quizzes.
+3. **Apply** creative AI tools to ideation and iterative development of stories, characters, visuals, or sound. **(C1.3 I)**  
+   - **Measure:** Documented iterations showing progression and decision-making.  
+   - **Corresponding Assignment:** Creative Practice Assignments; Creative AI Mini-Project or Case Study
 
-2.  Use contemporary generative AI tools to create original artistic and
-    entertainment-focused media aligned with an intentional creative
-    goal. (C1.2 I)
+4. **Critically evaluate** AI-generated media for originality, bias, representation, and aesthetic quality. **(1.3 I)**  
+   - **Measure:** Written critiques or facilitated discussions.  
+   - **Corresponding Assignment:** Critical Review / Reflection on AI-Generated Media
 
-    - Measure: Students will produce text, image, audio, or mixed-media
-      artifacts that demonstrate purposeful use of tools, not random
-      outputs.
+5. **Analyze** ethical, legal, and social implications of creative AI, including privacy, consent, copyright, and deepfakes. **(4.2 I)**  
+   - **Measure:** Case study analysis and reasoned arguments.  
+   - **Corresponding Assignment:** Ethics & Policy Case Study Assignment
 
-    - Corresponding Assignment: Generative Text Assignment & Generative
-      Image/Media Assignment.
+6. **Communicate** creative AI processes and outcomes to technical and non-technical audiences. **(3.2 I)**  
+   - **Measure:** Poster-style presentation and short oral explanation.  
+   - **Corresponding Assignment:** Final Project Poster & Showcase Presentation
 
-3.  Apply creative AI tools to ideation and iterative development of
-    stories, characters, visuals, and/or sound. (C1.3 I)
+7. **Collaborate** effectively in small teams to plan and develop a creative AI project. **(5.1 B)**  
+   - **Measure:** Team plans and reflective peer assessments.  
+   - **Corresponding Assignment:** Final Creative AI Project (Team Plan + Peer Reflection)
 
-    - Measure: Students will show progression from initial drafts to
-      refined versions, documenting iterations and decision-making.
+---
 
-    - Corresponding Assignment: Creative Practice Assignments & Creative
-      AI Mini-Project or Case Study.
-
-4.  Critically evaluate AI-generated media for originality, bias,
-    representation, and aesthetic quality using criteria drawn from
-    course readings and discussions. (1.3 I)
-
-    - Measure: Students will write critiques or lead discussions that
-      analyze AI-generated works using multiple perspectives (technical,
-      social, and artistic).
-
-    - Corresponding Assignment: Critical Review / Reflection on
-      AI-Generated Media.
-
-5.  Recognize and analyze ethical, legal, and social implications of
-    creative AI, including privacy, consent, copyright, and deepfakes,
-    and articulate informed positions. (4.2 I)
-
-    - Measure: Students will analyze case studies and argue for
-      responsible practices in written reflections or in-class debates.
-
-    - Corresponding Assignment: Ethics & Policy Case Study Assignment.
-
-6.  Communicate their creative AI process and outcomes effectively to
-    both technical and non-technical audiences through written, visual,
-    and oral formats. (3.2 I)
-
-    - Measure: Students will present their projects clearly in a
-      poster-style format and an accompanying short talk, demonstrating
-      audience-aware communication.
-
-    - Corresponding Assignment: Final Project Poster & Showcase
-      Presentation.
-
-7.  Collaborate effectively in small teams (or structured partnerships)
-    to plan, develop, and refine a creative AI project. (5.1 B)
-
-    - Measure: Students will co-create a project plan, divide
-      responsibilities, and reflect on teamwork dynamics and
-      contributions.
-
-    - Corresponding Assignment: Final Creative AI Project (Team Plan +
-      Peer/Team Reflection).
-
-**Prerequisites:**
+## Prerequisites:
 
 *None.*
 
-**Required Readings:**
+---
+
+## Required Readings:
 
 The required text for this course is:
 
-<img src="media/image1.png" style="width:1.56528in;height:1.93611in" />
+<img src="images/textbook.jpeg" style="width:1.5in;height:1.94in" alt="AI for Creative Production by Iain Anderson" />
 
-**AI for Creative Production by Iain Anderson**
+- **Anderson, Iain. _AI for Creative Production._** O’Reilly Media, 2026. ISBN-13: 978-1806025800.
 
-O’Reilly Media (2026)ISBN-13: 978-1806025800
+Supplementary readings will be provided via Brightspace and span computer science, media studies, psychology, informatics, law, and the creative arts.
 
-In addition to the required textbook, students will have short
-supplementary readings available online or via Brightspace. When these
-readings are assigned, the instructor will indicate where they can be
-accessed. These materials will span multiple fields—including computer
-science, media studies, psychology, informatics, law, and the creative
-arts—to provide diverse perspectives on creative AI in art, music, film,
-and entertainment. Together, they will give students the background
-needed to critically evaluate AI-generated media, understand issues such
-as authorship, privacy, and copyright, and more confidently navigate
-their own creative and digital lives in a rapidly evolving technological
-landscape.
+---
 
-**Grading:**  
+## Grading:
 
-| **Category**          | **Assignment Type**                      | **Category Weight in the Course** | **Weight Toward Final Grade** |
-|-----------------------|------------------------------------------|-----------------------------------|-------------------------------|
-| Individual Work       |                                          | 40%                               |                               |
-|                       | Quizzes                                  |                                   | 10%                           |
-|                       | Creative Practice Assignments            |                                   | 30%                           |
-| In-Class Work         |                                          | 30%                               |                               |
-|                       | In-Class Creative Workshops & Activities |                                   | 15%                           |
-|                       | Team / Collaborative Exercises           |                                   | 15%                           |
-| Class Participation   |                                          | 15%                               |                               |
-|                       | Attendance, Engagement & Discussion      |                                   | 15%                           |
-| Showcase Presentation |                                          | 15%                               | 15%                           |
+| **Category** | **Assignment Type** | **Category Weight** | **Final Grade Weight** |
+|-------------|---------------------|---------------------|------------------------|
+| **Individual Work** | Quizzes | 40% | 10% |
+|  | Creative Practice Assignments |  | 30% |
+| **In-Class Work** | Workshops & Activities | 30% | 15% |
+|  | Team / Collaborative Exercises |  | 15% |
+| **Class Participation** | Engagement & Discussion | 15% | 15% |
+| **Showcase Presentation** | Poster & Presentation | 15% | 15% |
 
-The above formula is the definitive grading scheme. Any “Total,”
-“Weighted Total,” etc. given by Brightspace does not reflect the actual
-grading scheme and should be ignored.
+The above formula is the definitive grading scheme.
 
-Grades are assigned based upon the percentage of points achieved by the
-student in the course, as weighted per the above table. The overall
-course **will not** be curved, although the professor retains the right
-curve individual assignments if the grade distribution is extreme enough
-to unfairly weight the overall course against the students.
+### Letter Grade Scale
 
-This course is A-E graded and the grades are determined based on graded
-assignments. Your final grade will be based on a scale of 100 points:
+| A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | E |
+|---|----|----|---|----|----|---|----|----|---|----|---|
+|100–94|93–89|88–85|84–82|81–79|78–76|75–73|72–70|69–67|66–64|63–60|59–0|
 
-| **A**  | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D+** | **D** | **D-** | **E** |
-|--------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|-------|
-| 100-94 | 93-89  | 88-85  | 84-82 | 81-79  | 78-76  | 75-73 | 72-70  | 69-67  | 66-64 | 63-60  | 59-0  |
+---
 
-**Course outline:**
+## Course Outline:
 
-**Important:** This tentative schedule is subject to change. Please pay
-attention to your Brightspace course outline and announcements.
+**Important:** This tentative schedule is subject to change.
 
-| **Weeks** | **Date** | **Module**                          | **Topic**                               | **Notes**                      |
-|-----------|----------|-------------------------------------|-----------------------------------------|--------------------------------|
-| 1         | 21-Jan   | M1: Creativity & AI                 | What is Creative AI?                    | Canva AI · ChatGPT             |
-| 2         | 26-Jan   |                                     | Human vs AI creativity                  | Sample AI-made works           |
-|           | 28-Jan   | M2: Foundations – How AI Learns     | How AI learns from data                 | Teachable Machine              |
-| 3         | 2-Feb    |                                     | Whose data shapes AI?                   | Bias & representation          |
-|           | 4-Feb    | M3: Foundations – Language Models   | AI for language & story                 | **Quiz 1**                     |
-| 4         | 9-Feb    |                                     | Finding voice with AI                   | ChatGPT · Claude               |
-|           | 11-Feb   | M4: Foundations – Image Models      | How AI creates images (big picture)     | Playground AI · NightCafe      |
-| 5         | 16-Feb   |                                     | Deepfakes & trust in images             | Real-world examples            |
-|           | 18-Feb   | M5: Utility AI for Media            | Cleaning & enhancing media              | Otter.ai · YT transcripts      |
-| 6         | 23-Feb   |                                     | AI help for images & video              | **Quiz 2** · CapCut · ClipDrop |
-|           | 25-Feb   | M6: GenAI – Story & Script          | AI-assisted storytelling                | ChatGPT · Character.AI         |
-| 7         | 2-Mar    |                                     | Culture & stereotype awareness in story | Short text samples             |
-|           | 4-Mar    | M7: GenAI – Visual Storytelling     | Style, mood & visual worlds             | Playground AI · Ideogram       |
-| 8         | 9-Mar    |                                     | Creating a visual series                | **Quiz 3**                     |
-|           | 11-Mar   | M8: GenAI – Video                   | AI for video concepts & clips           | Runway · Pika                  |
-|           | 16-Mar   | **Spring Break**                    |                                         |                                |
-|           | 18-Mar   | **Spring Break**                    |                                         |                                |
-| 9         | 23-Mar   |                                     | AI video in advertising & media         | Case examples                  |
-|           | 25-Mar   | M9: GenAI – Audio & Voice           | AI music & voice identity               | Simple music/TTS tools         |
-| 10        | 30-Mar   |                                     | Voice cloning & safeguards              | **Quiz 4**                     |
-|           | 1-Apr    | M10: Bias & Representation          | Who appears in AI outputs?              | Prompt comparisons             |
-| 11        | 6-Apr    |                                     | Representation & impact                 | Image results review           |
-|           | 8-Apr    | M11: Law & Rights in Creative AI    | Copyright & authorship                  | **Quiz 5**                     |
-| 12        | 13-Apr   |                                     | Privacy, consent & scraping             | Current cases                  |
-|           | 15-Apr   | M12: Automation & Workflows         | AI as a creative assistant              | Notion AI · simple automations |
-| 13        | 20-Apr   |                                     | Designing balanced workflows            | Examples from creators         |
-|           | 22-Apr   | M13: Project Studio & Communication | Shaping your project story              |                                |
-| 14        | 27-Apr   |                                     | Studio work & check-ins                 | **Quiz 6**                     |
-|           | 29-Apr   | M14: Showcase                       | **Creative AI Showcase (Required)**     |                                |
-|           | 30-Apr   | **Spring University Showcase**      |                                         |                                |
-| 15        | 4-May    | M15: Reflection & Futures           | Where creative AI is heading            | Future tools & trends          |
+| Week | Date | Module | Topic | Notes |
+|------|------|--------|-------|-------|
+| 1 | 21-Jan | M1: Creativity & AI | What is Creative AI? | Canva AI · ChatGPT |
+| 2 | 26–28 Jan |  | Human vs. AI creativity | Sample AI works |
+| 3 | 2–4 Feb | M2–M3 | How AI learns; Language models | **Quiz 1** |
+| 4 | 9–11 Feb | M4 | Image models & deepfakes | Playground AI |
+| 5 | 16–18 Feb | M5 | Utility AI for media | **Quiz 2** |
+| 6 | 23–25 Feb | M6 | AI-assisted storytelling | Character.AI |
+| 7 | 2–4 Mar | M7 | Visual storytelling | **Quiz 3** |
+| 8 | 9–11 Mar | M8 | AI video tools | Runway · Pika |
+| 9 | 16–18 Mar | **Spring Break** |  |  |
+| 10 | 23–25 Mar | M9 | Audio & voice | **Quiz 4** |
+| 11 | 30 Mar–1 Apr | M10 | Bias & representation | Prompt analysis |
+| 12 | 6–8 Apr | M11 | Law & rights | **Quiz 5** |
+| 13 | 13–15 Apr | M12 | Automation workflows | Notion AI |
+| 14 | 20–22 Apr | M13 | Project studio | **Quiz 6** |
+| 15 | 27–30 Apr | M14 | Creative AI Showcase | Required |
+| 16 | 4-May | M15 | Reflection & futures | Final wrap-up |
 
-**CEHC Showcase**
+---
+
+## CEHC Showcase
 
 **CEHC Showcase** is designed as an opportunity for students within the
 information, informatics, game design and development, emergency
@@ -222,18 +129,16 @@ management, homeland security and cybersecurity fields to highlight and
 present interesting projects, research, and concepts they are learning
 within their courses. It also provides students with an opportunity to
 showcase their findings to others and develop highly desired
-presentation and people skills. The CEHC Showcase in the Fall 2025
-semester will be held on **<u>Thursday, April 30th, 9:00-4:00 in
-ETEC</u>**. All students in CINF 196 **will be presenting** at this
-event and should reserve that time in their schedule. If your schedule
-does not permit you to attend, you will have an alternative assignment.
-**Students are expected to design and present a poster in the showcase;
-other presentation formats, such as PPT or no poster, will not be
-accepted. *Note:*** I grade easier for Showcase presentations than for
-the alternative assignment so you should seriously consider your
-schedule limitations!
+presentation and people skills. The CEHC Showcase is in Spring 2026
+semester will be held on **Thursday, April 30th (9:00 AM – 4:00 PM)**. All students in **CINF 196** will be
+presenting at this event and should reserve that time in their schedule.
+If your schedule does not permit you to attend, you will have an
+alternative assignment. ***Note:*** I grade easier for Showcase
+presentations than for the alternative assignment so you should
+seriously consider your schedule limitations!
+---
 
-**Policies:**
+## Policies:
 
 **Attendance Policy:** This is an in-person course, and therefore there
 are specified class sessions where attendance will be taken. Course
@@ -275,7 +180,7 @@ accommodations. You can review the [Equity and Compliance
 website](https://www.albany.edu/equity-compliance) as well for
 additional information.
 
-# Extra Credit: Extra credit can be earned in a number of ways. All require consultation with the instructor before they are commenced. All extra-credit opportunities are capped at no more than 3 points (3%) of your overall grade.
+**Extra Credit: Extra credit can be earned in a number of ways. All require consultation with the instructor before they are commenced. All extra-credit opportunities are capped at no more than 3 points (3%) of your overall grade.**
 
 - *Community:* CEHC sponsors several events throughout the semester. Any
   student who attends one or more of those events may receive extra
@@ -284,12 +189,12 @@ additional information.
 
 - Other extra credit opportunities may be available. Details to follow.
 
-**Withdrawal from the Course:** The drop date for the Spring 2026
-semester is Tuesday, February 3<sup>rd</sup>, 2026, for undergraduate
-students. That is the last date you can drop a course and not receive a
-'W'. It is your responsibility to take action by this date if you wish
-to drop the course. In particular, grades of "incomplete" will not be
-awarded to students because they missed the drop deadline.
+**Withdrawal from the Course:** The drop date for the Spring 2025
+semester is Tuesday, January 28th, 2025 for undergraduate students. *That is
+the last date you can drop a course and not receive a 'W'.* It is your
+responsibility to take action by this date if you wish to drop the
+course. In particular, grades of "incomplete" will not be awarded to
+students because they missed the drop deadline.
 
 **Incomplete Grade Policy (amended effective Fall 2020 and will apply to
 all undergraduate Incompletes issued Fall 2020 and thereafter):**
@@ -384,7 +289,7 @@ fulfilled their classwork obligations, and who, at the end of the
 semester, are looking to avoid failing the course. This is asking for
 special treatment.
 
-## Academic Integrity: It is every student’s responsibility to become familiar with the standards of academic integrity at the University. Claims of ignorance, of unintentional error, or of academic or personal pressures are not sufficient reasons for violations of academic integrity. See <http://www.albany.edu/undergraduate_bulletin/regulations.html>
+**Academic Integrity: It is every student’s responsibility to become familiar with the standards of academic integrity at the University. Claims of ignorance, of unintentional error, or of academic or personal pressures are not sufficient reasons for violations of academic integrity. See <http://www.albany.edu/undergraduate_bulletin/regulations.html>**
 
 Coursework and examinations are considered individual exercises. Copying
 the work of others is a violation of university rules on academic
@@ -394,8 +299,8 @@ assignments and techniques in general terms is encouraged, but the final
 work must be your own work. **For example, two or more people may not
 create an assignment together and submit it for credit. Credit will not
 be given for identical final project reports with different color
-palettes unless it is a group project identified by the instructor.** If
-you have specific questions about this or any other policy, please ask.
+palettes used on graphs submitted by two or more people.** If you have
+specific questions about this or any other policy, please ask.
 
 The following is a list of the types of behaviors that are defined as
 examples of academic dishonesty and are therefore unacceptable. Attempts
@@ -447,6 +352,7 @@ an exhaustive list.
   - A Failing mark (E) in the course, and referral of the matter to the
     University Judicial System for disposition.
 
+
 **Copyright Policy:** Materials provided to you as part of this course
 are provided under Fair Use and the TEACH Act. These materials are
 provided for your educational use only and should not be shared,
@@ -483,7 +389,7 @@ Association. Individuals in the social science disciplines primarily use
 this style
 guide. <https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_books.html> 
 
-## Time Management: For every credit hour that a course meets, students should expect to work 3 additional hours outside of class every week (3 x 3= 9). For a three-credit course, you should expect to work 9 hours outside of class every week. Manage your time effectively to complete readings, assignments, and projects.
+**Time Management: For every credit hour that a course meets, students should expect to work 3 additional hours outside of class every week (3 x 3= 9). For a three-credit course, you should expect to work 9 hours outside of class every week. Manage your time effectively to complete readings, assignments, and projects.**
 
 **Instructor Availability**: The instructor will be available for
 student consultation during office hours, by appointment, and online in
@@ -515,7 +421,55 @@ Your suggestions are encouraged and appreciated. Please let me know ways
 to improve the effectiveness of the course for you personally or for
 other students or student groups. In addition, if any of our class
 meetings conflict with your religious events, please let me know so that
-we can make arrangements for you.[^1]
+we can make arrangements for you.[^3]
 
-[^1]: Respect for Diversity statement from
+## Additional Information
+
+**CEHC Grievance Policy & Procedure:**
+
+According to the CEHC Grievance Policy:
+
+1.  **… a “grievance” shall include any** complaint alleging wrongdoing
+    made by students, faculty, staff, or administrators in the College
+    of Emergency Preparedness, Homeland Security and Cybersecurity
+    (CEHC) against other students, faculty, staff or administrators.
+    “Faculty” shall include any individuals with appointments enabling
+    them to be designated instructors of record, and “students” shall
+    include any enrolled students.
+
+> A “grievance” shall include, but not be limited to, any challenge to
+> the resolution of a dispute over matters of academic honesty (such as
+> plagiarism and cheating) and professional ethics or grades assigned
+> for courses. It shall also include any allegation of improper
+> treatment, including improper treatment on the grounds of age, color,
+> creed, disability, marital status, military status, national origin,
+> race, sex, gender identity, or sexual orientation. In grievances
+> concerning grades, grievances may be filed only as to any final grade
+> or other final disposition for a course. Dropping of a course shall
+> constitute a final disposition for a course so as to allow grievances
+> over grades or other matters occurring prior to the “drop.”
+>
+> All grievances concerning grades must be adjudicated by the CEHC
+> grievance committee and process. All other grievances may be referred
+> to the University-level community standards process (or other
+> appropriate process). Nothing in this policy prohibits the aggrieved
+> party from pursing University-level adjudication at any time.
+
+2.  **Any grievance must be filed within five months** of the time the
+    complainant was informed of the matter which is the subject of the
+    grievance. “File” shall mean the submission of a statement from the
+    complainant to either the Dean of the CEHC or the Chair of the CEHC
+    Grievance Committee. The statement shall 1) detail the event or
+    events to which the complainant is objecting, 2) identify the person
+    or persons the complainant alleges is responsible, and 3) identify
+    the remedy or remedies sought to address the complaint.
+
+For the full CEHC Grievance Policy, please contact cehc@albany.edu.
+
+[^1]: http://www.teambasedlearning.org
+
+[^2]: <sup>arXiv is a free distribution service and an open-access
+    archive.</sup>
+
+[^3]: Respect for Diversity statement from
     <https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements>
