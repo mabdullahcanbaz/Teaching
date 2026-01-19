@@ -187,8 +187,8 @@ https://wiki.albany.edu/display/public/askit/Brightspace+Resources+for+Students.
 |           | 4-Mar    | M4: Deep Learning                     |                                               | What is deep learning?                                        | Quiz 3    |
 | 8         | 9-Mar    |                                       |                                               | Neural networks                                               |           |
 |           | 11-Mar   |                                       |                                               | Convolutional neural networks, Recurrent neural networks      |           |
-|           | ***16-Mar***   | ***Spring   Break, No Class***                      |                                               |                                                               |           |
-|           | ***18-Mar***   |  ***Spring   Break, No Class***                                     |                                               |                                                               |           |
+|           | ***16-Mar***   | ***Spring   Break, No Class***                                 |
+|           | ***18-Mar***   |  ***Spring   Break, No Class***                                |
 | 9         | 23-Mar   |                                       |                                               | Training and evaluating deep learning models                  | Quiz 4    |
 |           | 25-Mar   | M5: Robotic Process Automation (RPA)  | Module 2: Maximize Productivity With AI Tools | What is RPA?, The benefits of RPA                             |           |
 | 10        | 30-Mar   |                                       | Module 2: Maximize Productivity With AI Tools | How to implement RPA, RPA use cases                           |           |
