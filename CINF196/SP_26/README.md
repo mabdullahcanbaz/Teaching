@@ -100,28 +100,44 @@ The above formula is the definitive grading scheme.
 
 **Important:** This tentative schedule is subject to change.
 
-| Week | Date | Module | Topic | Notes |
-|------|------|--------|-------|-------|
-| 1 | 21-Jan | M1: Creativity & AI | What is Creative AI? | Canva AI · ChatGPT |
-| 2 | 26–28 Jan |  | Human vs. AI creativity | Sample AI works |
-| 3 | 2–4 Feb | M2–M3 | How AI learns; Language models | **Quiz 1** |
-| 4 | 9–11 Feb | M4 | Image models & deepfakes | Playground AI |
-| 5 | 16–18 Feb | M5 | Utility AI for media | **Quiz 2** |
-| 6 | 23–25 Feb | M6 | AI-assisted storytelling | Character.AI |
-| 7 | 2–4 Mar | M7 | Visual storytelling | **Quiz 3** |
-| 8 | 9–11 Mar | M8 | AI video tools | Runway · Pika |
-| 9 | 16–18 Mar | **Spring Break** |  |  |
-| 10 | 23–25 Mar | M9 | Audio & voice | **Quiz 4** |
-| 11 | 30 Mar–1 Apr | M10 | Bias & representation | Prompt analysis |
-| 12 | 6–8 Apr | M11 | Law & rights | **Quiz 5** |
-| 13 | 13–15 Apr | M12 | Automation workflows | Notion AI |
-| 14 | 20–22 Apr | M13 | Project studio | **Quiz 6** |
-| 15 | 27–30 Apr | M14 | Creative AI Showcase | Required |
-| 16 | 4-May | M15 | Reflection & futures | Final wrap-up |
+| **Weeks** | **Date** | **Module**                          | **Topic**                               | **Notes**                      |
+|-----------|----------|-------------------------------------|-----------------------------------------|--------------------------------|
+| 1         | 21-Jan   | M1: Creativity & AI                 | What is Creative AI?                    | Canva AI · ChatGPT             |
+| 2         | 26-Jan   |                                     | Human vs AI creativity                  | Sample AI-made works           |
+|           | 28-Jan   | M2: Foundations – How AI Learns     | How AI learns from data                 | Teachable Machine              |
+| 3         | 2-Feb    |                                     | Whose data shapes AI?                   | Bias & representation          |
+|           | 4-Feb    | M3: Foundations – Language Models   | AI for language & story                 | **Quiz 1**                     |
+| 4         | 9-Feb    |                                     | Finding voice with AI                   | ChatGPT · Claude               |
+|           | 11-Feb   | M4: Foundations – Image Models      | How AI creates images (big picture)     | Playground AI · NightCafe      |
+| 5         | 16-Feb   |                                     | Deepfakes & trust in images             | Real-world examples            |
+|           | 18-Feb   | M5: Utility AI for Media            | Cleaning & enhancing media              | Otter.ai · YT transcripts      |
+| 6         | 23-Feb   |                                     | AI help for images & video              | **Quiz 2** · CapCut · ClipDrop |
+|           | 25-Feb   | M6: GenAI – Story & Script          | AI-assisted storytelling                | ChatGPT · Character.AI         |
+| 7         | 2-Mar    |                                     | Culture & stereotype awareness in story | Short text samples             |
+|           | 4-Mar    | M7: GenAI – Visual Storytelling     | Style, mood & visual worlds             | Playground AI · Ideogram       |
+| 8         | 9-Mar    |                                     | Creating a visual series                | **Quiz 3**                     |
+|           | 11-Mar   | M8: GenAI – Video                   | AI for video concepts & clips           | Runway · Pika                  |
+|           | 16-Mar   | **Spring Break**                    |                                         |                                |
+|           | 18-Mar   | **Spring Break**                    |                                         |                                |
+| 9         | 23-Mar   |                                     | AI video in advertising & media         | Case examples                  |
+|           | 25-Mar   | M9: GenAI – Audio & Voice           | AI music & voice identity               | Simple music/TTS tools         |
+| 10        | 30-Mar   |                                     | Voice cloning & safeguards              | **Quiz 4**                     |
+|           | 1-Apr    | M10: Bias & Representation          | Who appears in AI outputs?              | Prompt comparisons             |
+| 11        | 6-Apr    |                                     | Representation & impact                 | Image results review           |
+|           | 8-Apr    | M11: Law & Rights in Creative AI    | Copyright & authorship                  | **Quiz 5**                     |
+| 12        | 13-Apr   |                                     | Privacy, consent & scraping             | Current cases                  |
+|           | 15-Apr   | M12: Automation & Workflows         | AI as a creative assistant              | Notion AI · simple automations |
+| 13        | 20-Apr   |                                     | Designing balanced workflows            | Examples from creators         |
+|           | 22-Apr   | M13: Project Studio & Communication | Shaping your project story              |                                |
+| 14        | 27-Apr   |                                     | Studio work & check-ins                 | **Quiz 6**                     |
+|           | 29-Apr   | M14: Showcase                       | **Creative AI Showcase (Required)**     |                                |
+|           | 30-Apr   | **Spring University Showcase**      |                                         |                                |
+| 15        | 4-May    | M15: Reflection & Futures           | Where creative AI is heading            | Future tools & trends          |
+
 
 ---
 
-## CEHC Showcase
+**CEHC Showcase**
 
 **CEHC Showcase** is designed as an opportunity for students within the
 information, informatics, game design and development, emergency
@@ -129,15 +145,18 @@ management, homeland security and cybersecurity fields to highlight and
 present interesting projects, research, and concepts they are learning
 within their courses. It also provides students with an opportunity to
 showcase their findings to others and develop highly desired
-presentation and people skills. The CEHC Showcase is in Spring 2026
-semester will be held on **Thursday, April 30th (9:00 AM – 4:00 PM)**. All students in **CINF 196** will be
-presenting at this event and should reserve that time in their schedule.
-If your schedule does not permit you to attend, you will have an
-alternative assignment. ***Note:*** I grade easier for Showcase
-presentations than for the alternative assignment so you should
-seriously consider your schedule limitations!
----
+presentation and people skills. The CEHC Showcase in the Fall 2025
+semester will be held on **<u>Thursday, April 30th, 9:00-4:00 in
+ETEC</u>**. All students in CINF 196 **will be presenting** at this
+event and should reserve that time in their schedule. If your schedule
+does not permit you to attend, you will have an alternative assignment.
+**Students are expected to design and present a poster in the showcase;
+other presentation formats, such as PPT or no poster, will not be
+accepted. *Note:*** I grade easier for Showcase presentations than for
+the alternative assignment so you should seriously consider your
+schedule limitations!
 
+---
 ## Policies:
 
 **Attendance Policy:** This is an in-person course, and therefore there
@@ -190,8 +209,8 @@ additional information.
 - Other extra credit opportunities may be available. Details to follow.
 
 **Withdrawal from the Course:** The drop date for the Spring 2025
-semester is Tuesday, January 28th, 2025 for undergraduate students. *That is
-the last date you can drop a course and not receive a 'W'.* It is your
+semester is Tuesday, January 28th, 2025 for undergraduate students. ***That is
+the last date you can drop a course and not receive a 'W'.*** It is your
 responsibility to take action by this date if you wish to drop the
 course. In particular, grades of "incomplete" will not be awarded to
 students because they missed the drop deadline.
