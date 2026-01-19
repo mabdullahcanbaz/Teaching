@@ -117,8 +117,8 @@ The above formula is the definitive grading scheme.
 |           | 4-Mar    | M7: GenAI – Visual Storytelling     | Style, mood & visual worlds             | Playground AI · Ideogram       |
 | 8         | 9-Mar    |                                     | Creating a visual series                | **Quiz 3**                     |
 |           | 11-Mar   | M8: GenAI – Video                   | AI for video concepts & clips           | Runway · Pika                  |
-|           | 16-Mar   | **Spring Break**                    |                                         |                                |
-|           | 18-Mar   | **Spring Break**                    |                                         |                                |
+|           | 16-Mar   | **Spring Break**                                                   |
+|           | 18-Mar   | **Spring Break**                                                    |
 | 9         | 23-Mar   |                                     | AI video in advertising & media         | Case examples                  |
 |           | 25-Mar   | M9: GenAI – Audio & Voice           | AI music & voice identity               | Simple music/TTS tools         |
 | 10        | 30-Mar   |                                     | Voice cloning & safeguards              | **Quiz 4**                     |
@@ -131,7 +131,7 @@ The above formula is the definitive grading scheme.
 |           | 22-Apr   | M13: Project Studio & Communication | Shaping your project story              |                                |
 | 14        | 27-Apr   |                                     | Studio work & check-ins                 | **Quiz 6**                     |
 |           | 29-Apr   | M14: Showcase                       | **Creative AI Showcase (Required)**     |                                |
-|           | 30-Apr   | **Spring University Showcase**      |                                         |                                |
+|           | 30-Apr   | **Spring University Showcase**                                      |
 | 15        | 4-May    | M15: Reflection & Futures           | Where creative AI is heading            | Future tools & trends          |
 
 
