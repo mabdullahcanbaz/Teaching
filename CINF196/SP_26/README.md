@@ -137,7 +137,7 @@ The above formula is the definitive grading scheme.
 
 ---
 
-**CEHC Showcase**
+## CEHC Showcase
 
 **CEHC Showcase** is designed as an opportunity for students within the
 information, informatics, game design and development, emergency
@@ -145,9 +145,8 @@ management, homeland security and cybersecurity fields to highlight and
 present interesting projects, research, and concepts they are learning
 within their courses. It also provides students with an opportunity to
 showcase their findings to others and develop highly desired
-presentation and people skills. The CEHC Showcase in the Fall 2025
-semester will be held on **<u>Thursday, April 30th, 9:00-4:00 in
-ETEC</u>**. All students in CINF 196 **will be presenting** at this
+presentation and people skills. The CEHC Showcase in the Spring 2026
+semester will be held on **Thursday, April 30th (9:00 AM – 4:00 PM)**. All students in **CINF 196 will be presenting** at this
 event and should reserve that time in their schedule. If your schedule
 does not permit you to attend, you will have an alternative assignment.
 **Students are expected to design and present a poster in the showcase;
