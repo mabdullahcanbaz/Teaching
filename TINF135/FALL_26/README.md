@@ -1,4 +1,4 @@
-# TINF 135: Concepts of Artificial Intelligence (3 Credits)
+# TINF 135: Concepts of Artificial Intelligence — Honors College Edition (3 Credits)
 
 **Semester:** Fall 2026 (Aug 24 – Dec 7, 2026)
 
