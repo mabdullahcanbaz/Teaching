@@ -6,7 +6,7 @@ Course syllabi and materials for courses taught by **Dr. M. Abdullah Canbaz** at
 
 | Course | Title | Semesters |
 | --- | --- | --- |
-| **CINF 135** | Concepts of Artificial Intelligence | [SP_26](CINF135/SP_26), [SP_25](CINF135/SP_25), [FALL_24](CINF135/FALL_24), [SP_24](CINF135/SP_24) |
+| **CINF 135** | Concepts of Artificial Intelligence | [FALL_26](CINF135/FALL_26), [SP_26](CINF135/SP_26), [SP_25](CINF135/SP_25), [FALL_24](CINF135/FALL_24), [SP_24](CINF135/SP_24) |
 | **TINF 135** | Concepts of Artificial Intelligence — **Honors College Edition** | [FALL_26](TINF135/FALL_26), [FALL_25](TINF135/FALL_25) |
 | **CINF 196** | Special Topics — Creative AI | [SP_26](CINF196/SP_26) |
 | **CINF 624** | Predictive Modeling | [SP_24](CINF624/SP_24) |
