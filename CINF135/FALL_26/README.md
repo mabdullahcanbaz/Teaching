@@ -6,15 +6,15 @@
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *[ he/him/his ]*  
 **Contact:** (518) 442 – 5258  
-**Office Location and Hours:** Online on Mondays 1:30 pm – 2:30 pm or by appointment  
+**Office Location and Hours:** Online on Tuesdays 12:00 pm – 1:00 pm or by appointment  
 
-***Office Hours Zoom Link:*** Please see Brightspace Course for the link
+***Microsoft Teams Link:*** Please see Brightspace Course for the link
 
 ---
 
 ## Course Description:
 
-Introduction to information and technology in the 21st Century. Different resources, including the Internet, libraries, news sources and other sources of information, hardware, and Web 2.0 technologies will be explored. The primary emphasis of the class is on discovering reliable information sources for any and all subjects so that a student's future research and other pursuits are supported by the methods developed in this course. Each student is called upon to fortify their own individual communication and reasoning skills and will demonstrate the use of those skills through course assignments, class presentations and group activities. Only one version of T INF 100 or C INF 100 may be taken for credit. Honors College students only.
+An introduction to the technical foundations of artificial intelligence as well as its relevance to, and implications for modern society. The course will cover the basics of artificial intelligence and machine learning (AI/ML). This will include hands-on work. The importance of data selection, handling, etc. will also be covered. In addition, as AI/ML becomes more prevalent, it has tremendous implications in the world. The course will introduce issues of fairness, bias, explainability, etc., and how these and other issues must be addressed in the design, deployment, and use of AI/ML systems.
 
 ---
 
@@ -25,19 +25,19 @@ The primary objectives of this course are to help students understand:
 - How modern AI/ML systems function, including their strengths and limitations.
 - The relevance of AI/ML systems to society, affecting both their design and their impact.
 
-The course prioritizes active learning, which is especially important in the rapidly evolving field of AI/ML. The focus will be on learning how to navigate the technical and social aspects of AI/ML rather than memorization of static information.
+The course prioritizes active learning, which is especially important in the rapidly evolving field of AI/ML, where knowledge and techniques can quickly become outdated. The focus will be on learning how to navigate the technical and social aspects of AI/ML rather than memorization of static information.
 
 Upon successful completion of this course, students will be able to:
 
 1. **Identify and define** key components of AI/ML systems. **(1.1 B)**  
    - **Measure:** Students will list and describe the essential parts of AI/ML systems.  
-   - **Corresponding Assignment:** In-Class Teamwork - Intro to AI Systems
+   - **Corresponding Assignment:** In Class Teamwork - Intro to AI Systems
 
 2. **Research and gather** relevant information about AI/ML. **(1.2 I)**  
    - **Measure:** Students will compile and present information from various sources related to AI/ML.  
    - **Corresponding Assignment:** A1 - Data Types and Collection Mechanisms in AI
 
-3. **Understand and explain** different types of AI/ML systems (e.g., supervised and unsupervised learning). **(C1.1 B)**  
+3. **Understand and explain** the different types of AI/ML systems, e.g., supervised and unsupervised learning. **(C1.1 B)**  
    - **Measure:** Students will differentiate between types of AI/ML systems and provide specific examples.  
    - **Corresponding Assignment:** A2 - Types of Machine Learning and their Applications
 
@@ -45,19 +45,19 @@ Upon successful completion of this course, students will be able to:
    - **Measure:** Students will analyze and discuss the pros and cons of different AI/ML systems.  
    - **Corresponding Assignment:** A3 - Evaluating Deep Learning Models
 
-5. **Understand** the importance of data in AI/ML, including data gathering, cleaning, and visualization. **(C1.2 I)**  
+5. **Learn and explain** the importance of data in AI/ML, including data gathering, cleaning, and visualization. **(C1.2 I)**  
    - **Measure:** Students will demonstrate data collection, cleaning, and visualization techniques.  
    - **Corresponding Assignment:** Lab 2 - Data Collection and Initial Exploration (Hands On Code Review)
 
-6. **Identify and understand** legal issues related to computing. **(4.1 B)**  
+6. **Identify** legal issues related to computing. **(4.1 B)**  
    - **Measure:** Students will identify potential biases and ethical concerns in AI/ML systems and suggest mitigation strategies.  
-   - **Corresponding Assignment:** In-Class Teamwork - AI Ethics and Bias Detectives
+   - **Corresponding Assignment:** In Class Teamwork - AI Ethics and Bias Detectives
 
 7. **Reflect** on the societal impact of AI/ML technologies. **(4.4 A)**  
    - **Measure:** Students will write or present reflections on how AI/ML affects society.  
    - **Corresponding Assignment:** In-Class Activity - DL Ethical Dilemmas and Case Study Analysis
 
-8. **Communicate** technical information effectively through writing and presentations. **(3.2 I)**  
+8. **Effectively communicate** technical information through writing and presentations. **(3.2 I)**  
    - **Measure:** Students will produce well written reports and deliver oral presentations on AI/ML topics.  
    - **Corresponding Assignment:** Showcase Participation and Presentation
 
@@ -66,6 +66,27 @@ Upon successful completion of this course, students will be able to:
    - **Corresponding Assignment:** Lab 5 - Advanced Applications and Project
 
 By achieving these outcomes, students will gain foundational knowledge of the challenges and potential of AI/ML systems to prepare for further study or careers in the field.
+
+---
+
+## General Education: Mathematics & Quantitative Reasoning
+
+CINF 135: Concepts of Artificial Intelligence fulfills the Mathematics and Quantitative Reasoning General Education category. The General Education Program as a whole has the following characteristics:
+
+- General education offers explicit understandings of the procedures and practices of disciplines and interdisciplinary fields.
+- General education provides multiple perspectives on the subject matter, reflecting the intellectual and cultural diversity within and beyond the University.
+- General education emphasizes active learning in an engaged environment that enables students to become producers as well as consumers of knowledge.
+- General education promotes critical thinking about the assumptions, goals, and methods of various fields of academic study, and the interpretive, analytic and evaluative competencies central to intellectual development.
+
+This course satisfies the Mathematics and Quantitative Reasoning General Education requirement by engaging students in data collection, analysis, visualization, and interpretation within the context of artificial intelligence and machine learning. Students develop quantitative reasoning skills by evaluating data, interpreting graphical and numerical information, and applying logical and evidence-based approaches to understanding and assessing AI systems.
+
+### Learning Objectives for General Education Mathematics & Quantitative Reasoning Courses
+
+In this course, students will demonstrate mathematical skills and quantitative reasoning, including the ability to:
+
+- decipher, interpret, and draw conclusions from formal mathematical models such as formulas, graphs, tables, or schematics;
+- represent mathematical information symbolically, visually, numerically, or verbally as appropriate to mathematical, statistical, or logical analysis;
+- the ability to employ appropriate mathematical computations, statistical techniques, or logical methods to solve problems and/or draw conclusions from data.
 
 ---
 
@@ -84,28 +105,6 @@ alt="Artificial Intelligence Basics: A... by Taulli, Tom" />
 - ***Taulli, Tom, Artificial Intelligence Basics: A Non-technical Introduction.*** 2019. Apress. ISBN-13: 978-1-4842-5028-0.
 
 In addition to the required text, there will be readings that will be available to the students online or via Brightspace. When these readings are assigned, the class will be told where they can be found. These will cover the various topics in the course and will be drawn from the literature in several fields (e.g. computer science, electrical and computer engineering, psychology, informatics, law) to help inform us about the multiple perspectives necessary to understand Artificial Intelligence. This will also provide the underlying information to help us learn to critically evaluate and navigate our own digital lives securely in this rapidly changing world.
-
----
-
-## Gen-Ed Category Alignment
-
-This course satisfies the **Mathematics & Quantitative Reasoning [MQR]** General Education category, as detailed below.
-
-### Mathematics & Quantitative Reasoning
-
-Courses in this category “introduce students to or extend their knowledge of … statistics and/or data analysis.” In CINF-135, students will:
-
-- **[MQR]** Decipher, interpret, and draw conclusions from formal mathematical models such as formulas, graphs, tables, or schematics by analyzing AI system performance metrics and data-visualizations.  
-  - **Corresponding SLO:** SLO #5  
-  - **Corresponding Assignment:** Lab 2 – Data Collection and Initial Exploration
-
-- **[MQR]** Represent mathematical information symbolically, visually, numerically, or verbally in exercises like confusion-matrix interpretation and model-accuracy charting.  
-  - **Corresponding SLO:** SLO #5  
-  - **Corresponding Assignment:** Lab 2 – Data Collection and Initial Exploration
-
-- **[MQR]** Employ appropriate statistical techniques (e.g., precision, recall calculations; hypothesis testing on model outputs) to solve problems and draw conclusions from AI/ML data.  
-  - **Corresponding SLO:** SLO #4  
-  - **Corresponding Assignment:** A3 – Evaluating Deep Learning Models
 
 ---
 
@@ -136,16 +135,16 @@ Please note that successful completion of **both** the Coursera modules **and** 
 
 ## Grading:
 
-| **Category**              | **Assignment Type**                                             | **Category Weight in the Course** | **Weight to the Final Grade** |
-|---------------------------|-----------------------------------------------------------------|-----------------------------------|-------------------------------|
-| **Individual Grades**     |                                                                 | 35%                               |                               |
-|                           | Quizzes                                                         |                                   | 20%                           |
-|                           | Individual Assignments                                          |                                   | 15%                           |
-| **Team Grades**           |                                                                 | 30%                               |                               |
-|                           | Team Exercises                                                  |                                   | 30%                           |
-| **Class Participation**   |                                                                 | 20%                               |                               |
-|                           | Participation to Assignments and Google Certificate Assignments |                                   | 20%                           |
-| **Showcase Presentation** |                                                                 | 15%                               | 15%                           |
+| **Category**              | **Assignment Type**            | **Category Weight in the Course** | **Weight to the Final Grade** |
+|---------------------------|--------------------------------|-----------------------------------|-------------------------------|
+| **Individual Grades**     |                                | 35%                               |                               |
+|                           | Quizzes                        |                                   | 20%                           |
+|                           | Individual Assignments         |                                   | 15%                           |
+| **Team Grades**           |                                | 30%                               |                               |
+|                           | VoiceThread Exercises          |                                   | 30%                           |
+| **Class Participation**   |                                | 20%                               |                               |
+|                           | Google Certificate Assignments |                                   | 20%                           |
+| **Showcase Presentation** |                                | 15%                               | 15%                           |
 
 The above formula is the definitive grading scheme. Any “Total,” “Weighted Total,” etc. given by Brightspace does not reflect the actual grading scheme and should be ignored.
 
@@ -161,7 +160,7 @@ This course is A-E graded and the grades are determined based on graded assignme
 
 ## Fully Online Learning/Course:
 
-This course is offered in a fully online learning format. The instructor will be available on Mondays between 1:30pm and 2:30pm via Zoom and by appointment. Students will complete class work and assignments independently using the Brightspace learning management platform. If they are not familiar with Brightspace, they may please visit the Brightspace help pages for students:
+This course is offered in a fully online learning format. The instructor will be available on Tuesdays/Thursdays between 12:00pm and 1:00pm via Microsoft Teams and by appointment. Students will complete class work and assignments independently using the Brightspace learning management platform. If they are not familiar with Brightspace, they may please visit the Brightspace help pages for students:
 https://wiki.albany.edu/display/public/askit/Brightspace+Resources+for+Students.
 
 ---
@@ -170,38 +169,38 @@ https://wiki.albany.edu/display/public/askit/Brightspace+Resources+for+Students.
 
 **Important:** This tentative schedule is subject to change. Please pay attention to your Brightspace course outline and announcements.
 
-| **Weeks** | **Date** | **Module**                            | **Google AI Essentials Certificate**          | **Topics**                                                    | **Notes** |
-|-----------|----------|---------------------------------------|-----------------------------------------------|---------------------------------------------------------------|-----------|
-| 1         | 21-Jan   | M1: AI Foundations                    |                                               | Introduction, What is AI?                                     |           |
-| 2         | 26-Jan   |                                       |                                               | A brief history of AI, Different types of AI                  |           |
-|           | 28-Jan   |                                       |                                               | The potential of AI                                           |           |
-| 3         | 2-Feb    |                                       |                                               | The potential of AI                                           | Quiz 1    |
-|           | 4-Feb    | M2: Data                              |                                               | The importance of data in AI                                  |           |
-| 4         | 9-Feb    |                                       |                                               | Different types of data                                       |           |
-|           | 11-Feb   |                                       |                                               | Collecting and preparing data for AI                          |           |
-| 5         | 16-Feb   |                                       |                                               | Data ethics and privacy                                       |           |
-|           | 18-Feb   | M3: Machine Learning                  | Module 1: Introduction to AI                  | What is machine learning?                                     | Quiz 2    |
-| 6         | 23-Feb   |                                       | Module 1: Introduction to AI                  | Different types of machine learning                           |           |
-|           | 25-Feb   |                                       |                                               | Common machine learning algorithms                            |           |
-| 7         | 2-Mar    |                                       |                                               | Evaluating machine learning models                            |           |
-|           | 4-Mar    | M4: Deep Learning                     |                                               | What is deep learning?                                        | Quiz 3    |
-| 8         | 9-Mar    |                                       |                                               | Neural networks                                               |           |
-|           | 11-Mar   |                                       |                                               | Convolutional neural networks, Recurrent neural networks      |           |
-|           | ***16-Mar***   | ***Spring   Break, No Class***                                 |
-|           | ***18-Mar***   |  ***Spring   Break, No Class***                                |
-| 9         | 23-Mar   |                                       |                                               | Training and evaluating deep learning models                  | Quiz 4    |
-|           | 25-Mar   | M5: Robotic Process Automation (RPA)  | Module 2: Maximize Productivity With AI Tools | What is RPA?, The benefits of RPA                             |           |
-| 10        | 30-Mar   |                                       | Module 2: Maximize Productivity With AI Tools | How to implement RPA, RPA use cases                           |           |
-|           | 1-Apr    | M6: Physical Robots                   |                                               | What are physical robots?, Different types of physical robots | Quiz 5    |
-| 11        | 6-Apr    |                                       |                                               | Programming physical robots, Physical robot applications      |           |
-|           | 8-Apr    | M7: Natural Language Processing (NLP) | Module 3: Discover the Art of Prompting       | What is NLP?, Common NLP tasks                                |           |
-| 12        | 13-Apr   |                                       | Module 3: Discover the Art of Prompting       | NLP algorithms                                                | Quiz 6    |
-|           | 15-Apr   |                                       |                                               | NLP use cases                                                 |           |
-| 13        | 20-Apr   | M8: Implementation of AI              | Module 4: Use AI Responsibly                  | Developing and deploying AI solutions                         |           |
-|           | 22-Apr   |                                       | Module 4: Use AI Responsibly                  | AI project management                                         | Quiz 7    |
-| 14        | 27-Apr   |                                       | Module 5: Stay Ahead of the AI Curve          | AI governance                                                 |           |
-|           | 29-Apr   | M9: The Future of AI                  | Module 5: Stay Ahead of the AI Curve          | Emerging trends in AI, The ethical implications of AI         |           |
-| 15        | 4-May    |                                       |                                               | Emerging trends in AI, The ethical implications of AI         | Quiz 8    |
+| **Week** | **Date** | **Module**                            | **Google AI Essentials Certificate**          | **Topics**                                                    | **Notes** |
+|----------|----------|---------------------------------------|-----------------------------------------------|---------------------------------------------------------------|-----------|
+| 1        | 24-Aug   | M1: AI Foundations                    |                                               | Introduction, What is AI?                                     |           |
+|          |          |                                       |                                               | A brief history of AI, Different types of AI                  |           |
+| 2        | 31-Aug   |                                       |                                               | The potential of AI                                           |           |
+|          |          |                                       |                                               | The potential of AI                                           | Quiz 1    |
+| 3        | 7-Sep    | M2: Data                              |                                               | The importance of data in AI                                  |           |
+|          |          |                                       |                                               | Different types of data                                       |           |
+| 4        | 14-Sep   |                                       |                                               | Collecting and preparing data for AI                          |           |
+|          |          |                                       |                                               | Data ethics and privacy                                       |           |
+| 5        | 21-Sep   | M3: Machine Learning                  | Module 1: Introduction to AI                  | What is machine learning?                                     | Quiz 2    |
+|          |          |                                       | Module 1: Introduction to AI                  | Different types of machine learning                           |           |
+| 6        | 28-Sep   |                                       |                                               | Common machine learning algorithms                            |           |
+|          |          |                                       |                                               | Evaluating machine learning models                            |           |
+| 7        | 5-Oct    | M4: Deep Learning                     |                                               | What is deep learning?                                        | Quiz 3    |
+|          |          |                                       |                                               | Neural networks                                               |           |
+| 8        | ***12-13 Oct*** | ***Fall Break, No Class***     |                                               |                                                               |           |
+|          | 14-Oct   |                                       |                                               | Convolutional neural networks, Recurrent neural networks      |           |
+| 9        | 19-Oct   |                                       |                                               | Training and evaluating deep learning models                  | Quiz 4    |
+|          |          | M5: Robotic Process Automation (RPA)  | Module 2: Maximize Productivity With AI Tools | What is RPA?, The benefits of RPA                             |           |
+| 10       | 26-Oct   |                                       | Module 2: Maximize Productivity With AI Tools | How to implement RPA, RPA use cases                           |           |
+|          |          | M6: Physical Robots                   |                                               | What are physical robots?, Different types of physical robots |           |
+| 11       | 2-Nov    |                                       |                                               | Programming physical robots, Physical robot applications      | Quiz 5    |
+|          |          | M7: Natural Language Processing (NLP) | Module 3: Discover the Art of Prompting       | What is NLP?, Common NLP tasks                                |           |
+| 12       | 9-Nov    |                                       | Module 3: Discover the Art of Prompting       | NLP algorithms                                                |           |
+|          |          |                                       |                                               | NLP use cases                                                 | Quiz 6    |
+| 13       | 16-Nov   | M8: Implementation of AI              | Module 4: Use AI Responsibly                  | Developing and deploying AI solutions                         |           |
+|          |          |                                       | Module 4: Use AI Responsibly                  | AI project management                                         |           |
+| 14       | 23-Nov   |                                       | Module 5: Stay Ahead of the AI Curve          | AI governance                                                 | Quiz 7    |
+|          | ***26-Nov*** | ***Thanksgiving Break, No Class*** |                                               |                                                               |           |
+| 15       | 30-Nov   | M9: The Future of AI                  | Module 5: Stay Ahead of the AI Curve          | Emerging trends in AI, The ethical implications of AI         |           |
+|          | 7-Dec    | ***Showcase VoiceThread Day, All Students are expected to participate the Showcase*** |       |                                                               | Quiz 8    |
 
 ---
 
@@ -256,8 +255,8 @@ additional information.
 
 - Other extra credit opportunities may be available. Details to follow.
 
-**Withdrawal from the Course:** The drop date for the Spring 2025
-semester is Tuesday, January 28th, 2025 for undergraduate students. That is
+**Withdrawal from the Course:** The drop date for the Fall 2026
+semester is Friday, September 4th, 2026, for undergraduate students. That is
 the last date you can drop a course and not receive a 'W'. It is your
 responsibility to take action by this date if you wish to drop the
 course. In particular, grades of "incomplete" will not be awarded to
@@ -360,17 +359,17 @@ special treatment.
 
 Coursework and examinations are considered individual exercises. Copying
 the work of others is a violation of university rules on academic
-integrity.  Individual coursework is also key to your being prepared and
+integrity.  Individual coursework is also key to your being prepared and
 performing well on tests and exams. Forming study groups and discussing
 assignments and techniques in general terms is encouraged, but the final
 work must be your own work. **For example, two or more people may not
 create an assignment together and submit it for credit. Credit will not
 be given for identical final project reports with different color
-palettes used on graphs submitted by two or more people.** If you have
+palettes unless it is a group project identified by the instructor.** If you have
 specific questions about this or any other policy, please ask.
 
 The following is a list of the types of behaviors that are defined as
-examples of academic dishonesty and are therefore unacceptable. Attempts
+examples of academic dishonesty and are therefore unacceptable. Attempts
 to commit such acts also fall under the term academic dishonesty and are
 subject to penalty. No set of guidelines can, of course, define all
 possible types or degrees of academic dishonesty; thus, the following
@@ -436,25 +435,25 @@ please ask.
 **Style Manual and Guidelines**: Written assignments should be
 word-processed and double-spaced. Students are required to cite sources,
 if any are used in their written work, according to the American
-Psychological Association (APA).  
+Psychological Association (APA).  
 
- 
+ 
 
-American Psychological Association. *2020. Publication manual of the
+American Psychological Association. *2020. Publication manual of the
 American Psychological Association*, 7th Edition. Washington, DC:
-American Psychological Association. 
+American Psychological Association. 
 
 Style manuals are available in the reference sections of many mainstream
 bookstores and reference sections of all 3 of the University Libraries.
-(BF 76.7 P83 2020) 
+(BF 76.7 P83 2020) 
 
 [Purdue
-OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html) provides
+OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html) provides
 guidance the construction of citations in APA style. It is based on the
 7th edition of the Publication manual of the American Psychological
 Association. Individuals in the social science disciplines primarily use
 this style
-guide. <https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_books.html> 
+guide. <https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_books.html> 
 
 **Time Management: For every credit hour that a course meets, students should expect to work 3 additional hours outside of class every week (3 x 3= 9). For a three-credit course, you should expect to work 9 hours outside of class every week. Manage your time effectively to complete readings, assignments, and projects.**
 
@@ -488,55 +487,7 @@ Your suggestions are encouraged and appreciated. Please let me know ways
 to improve the effectiveness of the course for you personally or for
 other students or student groups. In addition, if any of our class
 meetings conflict with your religious events, please let me know so that
-we can make arrangements for you.[^3]
+we can make arrangements for you.[^1]
 
-## Additional Information
-
-**CEHC Grievance Policy & Procedure:**
-
-According to the CEHC Grievance Policy:
-
-1.  **… a “grievance” shall include any** complaint alleging wrongdoing
-    made by students, faculty, staff, or administrators in the College
-    of Emergency Preparedness, Homeland Security and Cybersecurity
-    (CEHC) against other students, faculty, staff or administrators.
-    “Faculty” shall include any individuals with appointments enabling
-    them to be designated instructors of record, and “students” shall
-    include any enrolled students.
-
-> A “grievance” shall include, but not be limited to, any challenge to
-> the resolution of a dispute over matters of academic honesty (such as
-> plagiarism and cheating) and professional ethics or grades assigned
-> for courses. It shall also include any allegation of improper
-> treatment, including improper treatment on the grounds of age, color,
-> creed, disability, marital status, military status, national origin,
-> race, sex, gender identity, or sexual orientation. In grievances
-> concerning grades, grievances may be filed only as to any final grade
-> or other final disposition for a course. Dropping of a course shall
-> constitute a final disposition for a course so as to allow grievances
-> over grades or other matters occurring prior to the “drop.”
->
-> All grievances concerning grades must be adjudicated by the CEHC
-> grievance committee and process. All other grievances may be referred
-> to the University-level community standards process (or other
-> appropriate process). Nothing in this policy prohibits the aggrieved
-> party from pursing University-level adjudication at any time.
-
-2.  **Any grievance must be filed within five months** of the time the
-    complainant was informed of the matter which is the subject of the
-    grievance. “File” shall mean the submission of a statement from the
-    complainant to either the Dean of the CEHC or the Chair of the CEHC
-    Grievance Committee. The statement shall 1) detail the event or
-    events to which the complainant is objecting, 2) identify the person
-    or persons the complainant alleges is responsible, and 3) identify
-    the remedy or remedies sought to address the complaint.
-
-For the full CEHC Grievance Policy, please contact cehc@albany.edu.
-
-[^1]: http://www.teambasedlearning.org
-
-[^2]: <sup>arXiv is a free distribution service and an open-access
-    archive.</sup>
-
-[^3]: Respect for Diversity statement from
+[^1]: Respect for Diversity statement from
     <https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements>
